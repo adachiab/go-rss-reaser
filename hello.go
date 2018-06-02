@@ -31,18 +31,7 @@ type Item struct {
 	Content  template.HTML `xml:"encoded"`
 	PubDate  string        `xml:"pubDate"`
 	Comments string        `xml:"comments"`
-}
-
-type Atom1 struct {
-	XMLName   xml.Name `xml:"http://www.w3.org/2005/Atom feed"`
-	Title     string   `xml:"title"`
-	Subtitle  string   `xml:"subtitle"`
-	Id        string   `xml:"id"`
-	Updated   string   `xml:"updated"`
-	Rights    string   `xml:"rights"`
-	Link      Link     `xml:"link"`
-	Author    Author   `xml:"author"`
-	EntryList []Entry  `xml:"entry"`
+	ThumbUrl string        `xml:"media:thumbnail>url,attr"`
 }
 
 type Link struct {
@@ -64,10 +53,10 @@ type Entry struct {
 	Author  Author `xml:"author"`
 }
 
-type Page struct {
-	Title string
-	Count int
-}
+// type TopPage struct {
+// 	Title string
+// 	Count int
+// }
 
 func parseFeedContent(content []byte) (Rss2, bool) {
 	v := Rss2{}
@@ -109,13 +98,12 @@ func TopHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	//rendering
-
-	page := Page{r1.Title, 1}
+	//	page := Page{r1.Title, 1}
 	tmpl, err := template.ParseFiles("template/index.html") // ParseFilesを使う
 	if err != nil {
 		panic(err)
 	}
-	tmpl.Execute(w, page)
+	tmpl.Execute(w, r1)
 }
 
 func main() {
