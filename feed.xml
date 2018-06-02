@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:snf="http://www.smartnews.be/snf"
+	>
+
+<channel>
+
+	<title>オモコロ あたまゆるゆるインターネットオモコロ あたまゆるゆるインターネット</title>
+	<atom:link href="https://omocoro.jp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://omocoro.jp</link>
+    <image>
+        <url>https://omocoro.jp/assets/img/rss/thumbnail.jpg</url>
+        <title>オモコロ あたまゆるゆるインターネットオモコロ あたまゆるゆるインターネット</title>
+        <link>https://omocoro.jp</link>
+    </image>
+	<description>あたまゆるゆるインターネット</description>
+	<lastBuildDate>Sat, 02 Jun 2018 03:33:34 +0000</lastBuildDate>
+	<language>ja</language>
+    <pubDate>Sat, 02 Jun 2018 03:33:34 +0000</pubDate>
+
+    <!-- <p:pubInterval>P3D</p:pubInterval> -->
+
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+
+
+
+
+<copyright>株式会社バーグハンバーグバーグ</copyright>
+<ttl>720</ttl>
+<image>
+<url>http://omocoro.jp/assets/img/default/og-image.jpg</url>
+<title>オモコロ</title>
+<link>http://omocoro.jp/</link>
+</image>
+
+
+
+
+
+	<generator>https://wordpress.org/?v=4.7.10</generator>
+
+	<item>
+		<title>【30分チャット】5月第5週のオモコロまとめ</title>
+		<link>https://omocoro.jp/rensai/141942/</link>
+		<comments>https://omocoro.jp/rensai/141942/#respond</comments>
+		<pubDate>Sat, 02 Jun 2018 03:32:58 +0000</pubDate>
+
+		<dc:creator><![CDATA[オモコロ編集部]]></dc:creator>
+		<author><![CDATA[オモコロ編集部]]></author>
+
+
+				<enclosure url="https://omocoro.jp/assets/uploads/152723556220afc.png" />
+			<media:thumbnail url="https://omocoro.jp/assets/uploads/152723556220afc.png" />
+	
+		<dc:title>【30分チャット】5月第5週のオモコロまとめ</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[連載]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141942</guid>
+		<description><![CDATA[<p><img src="https://omocoro.jp/assets/uploads/152723556220afc-520x390.png"></p>今週の4コマ &#160; &#160; &#160; 【4コマ漫画】新しい顔よ！（山口） https://omocoro.jp/comic/141479/ &#160; &#160; &#160; &#160; &#038;nb [&#8230;]]]></description>
+		<wfw:commentRss>https://omocoro.jp/rensai/141942/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+
+		
+	<item>
+		<title>【4コマ漫画】あのころぼくらは巻きグソしか知らなかった</title>
+		<link>https://omocoro.jp/comic/141930/</link>
+		<comments>https://omocoro.jp/comic/141930/#respond</comments>
+		<pubDate>Sat, 02 Jun 2018 03:00:17 +0000</pubDate>
+
+		<dc:creator><![CDATA[ポテチ光秀]]></dc:creator>
+		<author><![CDATA[ポテチ光秀]]></author>
+
+
+				<enclosure url="https://omocoro.jp/assets/uploads/1527908049bzhy3.png" />
+			<media:thumbnail url="https://omocoro.jp/assets/uploads/1527908049bzhy3.png" />
+	
+		<dc:title>【4コマ漫画】あのころぼくらは巻きグソしか知らなかった</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[4コマ漫画]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141930</guid>
+		<description><![CDATA[<p><img src="https://omocoro.jp/assets/uploads/1527908049bzhy3-520x363.png"></p>]]></description>
+		<wfw:commentRss>https://omocoro.jp/comic/141930/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+
+		
+	<item>
+		<title>今週の大喜利β くん「こんな年号は嫌だ」（ヌートン）</title>
+		<link>https://omocoro.jp/news/141916/</link>
+		<comments>https://omocoro.jp/news/141916/#respond</comments>
+		<pubDate>Fri, 01 Jun 2018 10:04:06 +0000</pubDate>
+
+
+
+				<enclosure url="https://omocoro.jp/assets/img/rss/no-image.png" />
+	
+		<dc:title>今週の大喜利β くん「こんな年号は嫌だ」（ヌートン）</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[ニュース]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141916</guid>
+		<description><![CDATA[ジャイアント・ピーチ懐かしい（恐山）]]></description>
+		<wfw:commentRss>https://omocoro.jp/news/141916/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+
+		
+	<item>
+		<title>【4コマ】帰り道</title>
+		<link>https://omocoro.jp/comic/141881/</link>
+		<comments>https://omocoro.jp/comic/141881/#respond</comments>
+		<pubDate>Fri, 01 Jun 2018 08:00:32 +0000</pubDate>
+
+		<dc:creator><![CDATA[紙切りくん]]></dc:creator>
+		<author><![CDATA[紙切りくん]]></author>
+
+
+				<enclosure url="https://omocoro.jp/assets/uploads/1527827328ac16a.jpg" />
+			<media:thumbnail url="https://omocoro.jp/assets/uploads/1527827328ac16a.jpg" />
+	
+		<dc:title>【4コマ】帰り道</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[4コマ漫画]]></category>
+		<category><![CDATA[4コマ]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141881</guid>
+		<description><![CDATA[<p><img src="https://omocoro.jp/assets/uploads/1527827328ac16a.jpg"></p>]]></description>
+		<wfw:commentRss>https://omocoro.jp/comic/141881/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+
+		
+	<item>
+		<title>【8コマ漫画】木下晋也 『柳田さんと民話』 – 「絵本の付加価値」</title>
+		<link>https://omocoro.jp/info/141876/</link>
+		<comments>https://omocoro.jp/info/141876/#respond</comments>
+		<pubDate>Fri, 01 Jun 2018 03:19:52 +0000</pubDate>
+
+		<dc:creator><![CDATA[ジモコロ編集部]]></dc:creator>
+		<author><![CDATA[ジモコロ編集部]]></author>
+
+
+				<enclosure url="https://omocoro.jp/assets/uploads/1527823171e5i9x-1000x525.jpg" />
+			<media:thumbnail url="https://omocoro.jp/assets/uploads/1527823171e5i9x-1000x525.jpg" />
+	
+		<dc:title>【8コマ漫画】木下晋也 『柳田さんと民話』 – 「絵本の付加価値」</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[お知らせ]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141876</guid>
+		<description><![CDATA[<p><img src="https://omocoro.jp/assets/uploads/1527823171e5i9x-520x390.jpg"></p>]]></description>
+		<wfw:commentRss>https://omocoro.jp/info/141876/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+
+		
+	<item>
+		<title>【キューライスのまんが】マンション</title>
+		<link>https://omocoro.jp/kiji/141041/</link>
+		<comments>https://omocoro.jp/kiji/141041/#respond</comments>
+		<pubDate>Fri, 01 Jun 2018 03:00:45 +0000</pubDate>
+
+		<dc:creator><![CDATA[キューライス]]></dc:creator>
+		<author><![CDATA[キューライス]]></author>
+
+
+				<enclosure url="https://omocoro.jp/assets/uploads/15278162597fcrx-1000x525.png" />
+			<media:thumbnail url="https://omocoro.jp/assets/uploads/15278162597fcrx-1000x525.png" />
+	
+		<dc:title>【キューライスのまんが】マンション</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[特集]]></category>
+		<category><![CDATA[4コマ]]></category>
+		<category><![CDATA[漫画]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141041</guid>
+		<description><![CDATA[<p><img src="https://omocoro.jp/assets/uploads/15278162597fcrx-520x390.png"></p>                            （おしまい）   &#160; &#160; Tweet &#160; &#160; 【お知らせ】2018年6月7日単行本「チャー子Ⅰ〜Ⅱ」発売決定！それぞれに描き [&#8230;]]]></description>
+		<wfw:commentRss>https://omocoro.jp/kiji/141041/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+
+		
+	<item>
+		<title>恐怖のおすそ分け</title>
+		<link>https://omocoro.jp/rensai/141467/</link>
+		<comments>https://omocoro.jp/rensai/141467/#respond</comments>
+		<pubDate>Thu, 31 May 2018 22:00:56 +0000</pubDate>
+
+		<dc:creator><![CDATA[ARuFa]]></dc:creator>
+		<author><![CDATA[ARuFa]]></author>
+
+
+				<enclosure url="https://omocoro.jp/assets/uploads/15018101144w3yb-1000x525.jpg" />
+			<media:thumbnail url="https://omocoro.jp/assets/uploads/15018101144w3yb-1000x525.jpg" />
+	
+		<dc:title>恐怖のおすそ分け</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[連載]]></category>
+		<category><![CDATA[文字そば]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141467</guid>
+		<description><![CDATA[<p><img src="https://omocoro.jp/assets/uploads/15018101144w3yb-520x390.jpg"></p>&#160; 2年程前からマンションで一人暮らしを始めているが、ついに先日、あのイベントがやってきた。 そう、近隣住民からの「煮物作りすぎちゃったので、よかったらどうぞ」だ。 &#160; アニメやドラマなどでよく見かけ [&#8230;]]]></description>
+		<wfw:commentRss>https://omocoro.jp/rensai/141467/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+
+		
+	<item>
+		<title>セブ山・永田の最高ラジオ151「最も“面白くない人間”とはどんな人間か？」</title>
+		<link>https://omocoro.jp/radio/141215/</link>
+		<comments>https://omocoro.jp/radio/141215/#respond</comments>
+		<pubDate>Thu, 31 May 2018 15:00:27 +0000</pubDate>
+
+		<dc:creator><![CDATA[永田]]></dc:creator>
+		<author><![CDATA[永田]]></author>
+		<dc:creator><![CDATA[セブ山]]></dc:creator>
+		<author><![CDATA[セブ山]]></author>
+
+
+				<enclosure url="https://omocoro.jp/assets/uploads/1527164027c8x6r.jpg" />
+			<media:thumbnail url="https://omocoro.jp/assets/uploads/1527164027c8x6r.jpg" />
+	
+		<dc:title>セブ山・永田の最高ラジオ151「最も“面白くない人間”とはどんな人間か？」</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[ラジオ]]></category>
+		<category><![CDATA[最高ラジオ]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141215</guid>
+		<description><![CDATA[<p><img src="https://omocoro.jp/assets/uploads/1527164027c8x6r-520x390.jpg"></p>&#160; https://omocoro.heteml.net/radio/saikou/151/151.mp3 &#160; 第151回「最も“面白くない人間”とはどんな人間か？」   ※ダウンロードはこちらから  [&#8230;]]]></description>
+		<wfw:commentRss>https://omocoro.jp/radio/141215/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://omocoro.heteml.net/radio/saikou/151/151.mp3" length="0" type="audio/mpeg" />
+<enclosure url="https://omocoro.heteml.net/radio/saikou/151/151.ogg" length="0" type="audio/ogg" />
+		</item>
+
+		
+	<item>
+		<title>Birthday Surprise: Gone Wrong</title>
+		<link>https://omocoro.jp/news/141842/</link>
+		<comments>https://omocoro.jp/news/141842/#respond</comments>
+		<pubDate>Thu, 31 May 2018 09:57:37 +0000</pubDate>
+
+
+
+				<enclosure url="https://omocoro.jp/assets/img/rss/no-image.png" />
+	
+		<dc:title>Birthday Surprise: Gone Wrong</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[ニュース]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141842</guid>
+		<description><![CDATA[この動画、一日5回見てます（ARuFa）]]></description>
+		<wfw:commentRss>https://omocoro.jp/news/141842/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+
+		
+	<item>
+		<title>ぬか漬けにした「ぬかサンマ」が美味しい！ なのでマグロやホタテも漬けてみた（ヌートン）</title>
+		<link>https://omocoro.jp/news/141840/</link>
+		<comments>https://omocoro.jp/news/141840/#respond</comments>
+		<pubDate>Thu, 31 May 2018 09:53:40 +0000</pubDate>
+
+
+
+				<enclosure url="https://omocoro.jp/assets/img/rss/no-image.png" />
+	
+		<dc:title>ぬか漬けにした「ぬかサンマ」が美味しい！ なのでマグロやホタテも漬けてみた（ヌートン）</dc:title>
+		<dc:publisher>オモコロ</dc:publisher>
+				<category><![CDATA[ニュース]]></category>
+
+		<guid isPermaLink="false">https://omocoro.jp/?p=141840</guid>
+		<description><![CDATA[しょっぱくて、ごはんがすぐなくなっちゃうおいしさ]]></description>
+		<wfw:commentRss>https://omocoro.jp/news/141840/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+
+		
+</channel>
+</rss>
